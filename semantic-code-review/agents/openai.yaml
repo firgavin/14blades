@@ -1,0 +1,4 @@
+interface:
+  display_name: "Semantic Code Review"
+  short_description: "Review behavior beyond automated checks"
+  default_prompt: "Use $semantic-code-review to review this change for behavioral defects and evidence gaps."
